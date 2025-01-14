@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/emmanuel-kafui-anthonio-310565185) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anthonio_manuel) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-kafui-anthonio-310565185) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anthonio_manuel) 
 
 <h1 align="center">Hi 👋, I'm Emmanuel Kafui Anthonio</h1>
 <h3 align="center">A passionate fullstack developer in Accra, GH 🇧🇴</h3>
